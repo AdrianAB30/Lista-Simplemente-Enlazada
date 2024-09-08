@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\obj\Debug\Lista Simple.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\obj\Debug\Lista Simple.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\bin\Debug\Lista Simple.exe.config
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\bin\Debug\Lista Simple.exe
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\bin\Debug\Lista Simple.pdb
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\obj\Debug\Lista Simple.exe
+C:\Users\USER\OneDrive\Desktop\Lista Simple\Lista Simple\obj\Debug\Lista Simple.pdb
